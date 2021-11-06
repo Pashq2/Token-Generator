@@ -1,2 +1,2 @@
   # Token-Generator
-  Token Generator
+Alın kullanın amk.
